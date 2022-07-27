@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "discord-rpc": "^4.0.1"
+  },
+  "name": "status-lyrics",
+  "version": "1.0.0",
+  "description": "Show synced lyrics in your Discord status",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "lyrics",
+    "status",
+    "rich",
+    "presence"
+  ],
+  "author": "Foxy#8956",
+  "license": "ISC"
+}
