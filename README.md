@@ -15,5 +15,5 @@ You can enable or disable `loop` in `cfg.json` by setting it to true or false - 
 You can enable or disable custom Rich Presence by setting `richPresence` to true or false in `cfg.json`
 
 # Disclaimer
-Account automation (including automating status) is agains Discord TOS. I'm not responsible for anything, use this at your own risk.\
+Account automation (including automating status) is against Discord TOS. I'm not responsible for anything, use this at your own risk.\
 You could get banned for this.
